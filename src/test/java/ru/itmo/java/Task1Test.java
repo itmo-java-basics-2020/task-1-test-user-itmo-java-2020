@@ -11,5 +11,4 @@ public class Task1Test {
 
         Assert.assertEquals(42, inst.get42());
     }
-
 }
